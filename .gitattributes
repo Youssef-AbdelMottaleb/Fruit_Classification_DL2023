@@ -1,1 +1,2 @@
 deployment/model_CNN_saved/ filter=lfs diff=lfs merge=lfs -text
+deployment/model_CNN_saved/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
